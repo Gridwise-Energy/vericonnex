@@ -8,7 +8,7 @@ Created using [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-t
 
 ## Suggested path forward
 
-Use jekyll and Github pages to publish a website with details of what and how Vericonnex is.
+Use jekyll and Github pages to publish a website with details of what and who Vericonnex is.
 
 Use the vericonnex branding:
 - primary: '#173115'
@@ -17,7 +17,7 @@ Use the vericonnex branding:
 
 Other images should be grabbed from [https://gridwiseenergy.com.au/](https://gridwiseenergy.com.au/)
 
-In terms of Jekyll templates lest start with [jekyll-agency](https://github.com/raviriley/agency-jekyll-theme)
+In terms of Jekyll templates lest start with [jekyll-agency](https://github.com/raviriley/agency-jekyll-theme).  To modify this the content shown look at this repo and figure out which files to create locally and modify them.
 
 ## Tasks
 
