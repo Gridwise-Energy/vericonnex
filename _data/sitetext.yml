@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Generator Compliance Monitoring"
-        desc: "Allow us to run the GPS compliance process for your NEM connected generating assets."
+        desc: "Allow us to run the GPS compliance process for your NEM connected assets."
         icon: fas fa-bolt
       - title: "Dynamic Model Acceptance Test Guidelines"
         desc: "Our assessment engine allows NSP engineers to focus on the actual engineering problems of a connection application."

@@ -21,9 +21,9 @@ title      : VeriConnex
 email      : contact@vericonnex.com #this is also the email contact forms will go to
 description: "We are here to solve the industry's challenging power system problems as it transitions to a low-carbon future."
 author     : VeriConnex developers
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets\img\vericonnex_inverted_logo_132x52.png
+  height: 52 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
