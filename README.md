@@ -14,6 +14,7 @@ Use the vericonnex branding:
 - primary: '#173115'
 - secondary: '#71b35d'
 - favicon: https://github.com/Gridwise-Energy/assessment-engine/blob/main/public/favicon.ico
+- logo: https://www.logoai.com/download?logo=1359404
 
 Other images should be grabbed from [https://gridwiseenergy.com.au/](https://gridwiseenergy.com.au/)
 
