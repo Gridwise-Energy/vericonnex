@@ -11,27 +11,27 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: VeriConneX
+    text: Digital solutions for Power Systems
     button: false
     buttonlink: false
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
-      - title: "Generator Compliance Monitoring"
-        desc: "Allow us to run the GPS compliance process for your NEM connected assets."
+      - title: "COMET - Generator Compliance Monitoring"
+        desc: "Allow us to run your ongoing GPS compliance process for NEM connected assets."
         icon: fas fa-bolt
-      - title: "Dynamic Model Acceptance Test Guidelines"
-        desc: "Our assessment engine allows NSP engineers to focus on the actual engineering problems of a connection application."
+      - title: "ATLAS - Dynamic Model Acceptance Test Guidelines"
+        desc: "Our assessment engine allows NSP engineers to focus on the engineering problems of a connection application."
         icon: fas fa-clipboard-list
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: ""
+    body: "Our journey began with a singular vision: to empower our clients and the wider industry with cutting-edge digital solutions that ensure reliability, compliance and importantly a faster path to a sustainable future. Our team has decades of experience with Power Systems, we know how to make this industry more efficient and our amazing development team is making our ideas a reality."
     section: about
 
   team:
