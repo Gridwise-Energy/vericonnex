@@ -24,7 +24,7 @@ en: &DEFAULT_EN
       - title: "COMET - Generator Compliance Monitoring"
         desc: "Allow us to run your ongoing GPS compliance process for NEM connected assets."
         icon: fas fa-bolt
-      - title: "ATLAS - Dynamic Model Acceptance Test Guidelines"
+      - title: "ATLAS - DMAT assessment engine"
         desc: "Our assessment engine allows NSP engineers to focus on the engineering problems of a connection application."
         icon: fas fa-clipboard-list
 
