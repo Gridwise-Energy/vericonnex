@@ -25,6 +25,10 @@ logo:     #optional, defaults to site title
   path: assets\img\vericonnex_inverted_logo_132x52.png
   height: 52 #height in px, defaults to 52px
 
+logo_large:
+  path: assets\img\vericonnex_logo.png
+  # height:
+
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
