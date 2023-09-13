@@ -12,12 +12,12 @@
 en: &DEFAULT_EN
   header:
     title: VeriConneX
-    text: Digital solutions for Power Systems
+    text: Letting Engineers do the Engineering
     button: false
     buttonlink: false
 
   services:
-    title: "Services"
+    title: "Products"
     text: ""
     section: services
     list:
