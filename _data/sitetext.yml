@@ -53,7 +53,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/hiteshbavarva/
             icon: fab fa-linkedin-in
       - name: "Matt Coleman"
-        role: "???"
+        role: "Technology"
         image: assets/img/team/matt-coleman.jpg
         social:
           - url: https://www.linkedin.com/in/matt-coleman-b91bb49/
