@@ -18,7 +18,7 @@ Use the vericonnex branding:
 
 Other images should be grabbed from [https://gridwiseenergy.com.au/](https://gridwiseenergy.com.au/)
 
-In terms of Jekyll templates lest start with [jekyll-agency](https://github.com/raviriley/agency-jekyll-theme).  To modify this the content shown look at this repo and figure out which files to create locally and modify them.
+In terms of Jekyll templates lest start with [jekyll-agency](https://github.com/raviriley/agency-jekyll-theme).  To modify the content shown, look at the jekyll agency repo and figure out which files to create locally, and modify them.
 
 ## Tasks
 
@@ -29,7 +29,6 @@ Full datils of these [task can be found in SmartSheets](https://app.smartsheet.c
     -- ABOUT
     -- TEAM
     -- CONTACT
-- [ ] Use a lorem ipsum generator for content
 - [ ] Determine how we publish this website using GitHub Pages!
 - [ ] Update the content until we get approval to publish. Then
 - Make the repository public (so that we do not have to purchase an enterprise GH account)
