@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "COMET is a customisable, online, renewable energy project monitoring tool for assessing GPS compliance and operational performance of projects in 'near real-time'"
         icon: fas fa-meteor
       - title: "ATLAS - DMAT assessment engine"
-        desc: "ATLAS is a customisable, online, pre-screening tool for networks to help assess renewable project connection submissions."
+        desc: "ATLAS is a customisable, online, pre-screening tool for networks to help assess renewable project connection submissions. ATLAS gives confidence to network engineers when assessing submissions."
         icon: fas fa-globe
 
   about:
@@ -78,9 +78,8 @@ en: &DEFAULT_EN
 
   footer:
     legal: "Privacy Policy"
-    social:
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
+    social: nil
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
