@@ -31,7 +31,13 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: ""
-    body: "Our journey began with a singular vision: to empower our clients and the wider industry with cutting-edge digital solutions that ensure reliability, compliance and importantly a faster path to a sustainable future. Our team has decades of experience with Power Systems, we know how to make this industry more efficient and our amazing development team is making our ideas a reality."
+    body: |
+      VeriConneX is building tools and technologies to simplify and automate key activities required to develop, connect and operate renewable energy projects. We believe that through the adoption of innovative, efficient, approaches we can reduce the cost of establishing and operating renewable energy projects, while simultaneously achieving more robust and accurate engineering outcomes.
+
+      <span class="text-primary">Building technologies that let Engineers focus on the Engineering</span> {#about-tag}
+      ------
+
+      Based in Melbourne Australia, VeriConneX is energy tech company made up of highly experienced Power Systems and Software Engineers. By bringing these two disciplines together we are producing solutions to simplify the analysis process for engineers, to ensure compliance and enable a safe, secure and reliable connection to the grid for both networks and proponents.
     section: about
 
   team:
