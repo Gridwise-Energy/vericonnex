@@ -58,12 +58,6 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/hiteshbavarva/
             icon: fab fa-linkedin-in
-      - name: "Matt Coleman"
-        role: "Technology"
-        image: assets/img/team/matt-coleman.jpg
-        social:
-          - url: https://www.linkedin.com/in/matt-coleman-b91bb49/
-            icon: fab fa-linkedin-in
       - name: "Jerome Paul"
         role: "Principal Developer"
         image: assets/img/team/jerome-paul.jpg
